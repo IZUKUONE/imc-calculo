@@ -1,4 +1,4 @@
-# calculo de IMC
+# Calculo de IMC
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/IZUKUONE/imc-calculo/blob/main/LICENSE)
 
 ## Sobre o projeto 
@@ -8,7 +8,7 @@ A aplicação consiste no usuário saber se está no peso ideal baseado na sua a
 
 ## Tecnologia
 
-### back-end
+### Back-end
 - Java
 
 ## Back end
