@@ -18,7 +18,7 @@ Pré-requisitos: Java 8
 # clonar repositório
 git clone https://github.com/IZUKUONE/imc-calculo.git
 
-# entrar na pasta do projeto src
+# entrar na pasta do projeto 
 src
 
 # executar o projeto
