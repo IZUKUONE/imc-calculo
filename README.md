@@ -10,6 +10,20 @@ A aplicação consiste no usuário saber se está no peso ideal baseado na sua a
 
 ### back-end
 - Java
+
+## Back end
+Pré-requisitos: Java 8
+
+```bash
+# clonar repositório
+git clone https://github.com/IZUKUONE/imc-calculo.git
+
+# entrar na pasta do projeto src
+src
+
+# executar o projeto
+imctest.java
+```
  
 ## Autor
 Jorge Luis de Carvalho Alves
